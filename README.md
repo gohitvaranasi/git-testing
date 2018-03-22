@@ -1,3 +1,3 @@
 # git-testing
 
-This file is changed in the new feature1 branch.
+This file is changed in the branch "NewBranch".
